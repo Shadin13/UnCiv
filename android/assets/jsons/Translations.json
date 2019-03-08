@@ -48,6 +48,7 @@
 		Portuguese:"Trabalhando..."
 		German:"Bitte warten..."
 		Japanese:"ワーキング..."
+	        Polish:"Cierpliwości..."
 	}
 	
 	"Turn":{ // For main screen at top left, e.g. Turn 234
@@ -61,6 +62,7 @@
 		Simplified_Chinese:"回合"
 		Portuguese:"Turno"
 		Japanese:"順番"
+		Polish:"Tura"
 	}
 
 	"in":{ // As in "Opera House in 3 turns"
@@ -74,6 +76,7 @@
 		Simplified_Chinese:"在"
 		Portuguese:"em"
 		Japanese:"に"
+		Polish:"w"
 	}
 	
 	"turns":{ // for e.g. turns to technology
@@ -87,6 +90,7 @@
 		Simplified_Chinese:"回合"
 		Portuguese:"turnos"
 		Japanese:"回る"
+		Polish:"tur"
 	}
 	
 	"Turn":{ // for e.g. turns to technology
@@ -100,6 +104,7 @@
 		Simplified_Chinese:"回合"
 		Portuguese:"turnos"
 		Japanese:"順番"
+		Polish:"tura"
 	}
 
 	// Unit
@@ -114,6 +119,7 @@
 		Simplified_Chinese:"移动力"
 		Portuguese:"Movimento"
 		Japanese:"移動"
+		Polish:"ruch"
 	}
 
 	"Strength":{
@@ -127,6 +133,7 @@
 		Simplified_Chinese:"近战攻击"
 		Portuguese:"Força"
 		Japanese:"強さ"
+		Polish:"Siła"
 	}
 
 	"Ranged strength":{
@@ -140,6 +147,7 @@
 		Simplified_Chinese:"远程攻击"
 		Portuguese:"Força a distancia"
 		Japanese:"範囲の強さ"
+		Polish:"Siła dystansowa"
 	}
 	
 	"Bombard strength":{ // for displaying city info
@@ -153,6 +161,7 @@
 		Simplified_Chinese:"轰炸力量"
 		Portuguese:"Força Bombard"
 		Japanese:"爆撃力"
+		Polish:"Siła Ostrzału"
 	}
 
 
@@ -168,6 +177,7 @@
 		Simplified_Chinese:"移动单位"
 		Portuguese:"Mover unidade"
 		Japanese:"移動ユニット"
+		Polish:"Rusz jednostkę"
 	}
 
 	"Stop movement":{
@@ -181,6 +191,7 @@
 		Simplified_Chinese:"停止移动"
 		Portuguese:"Parar movimento"
 		Japanese:"動きを止める"
+		Polish:"Zastopuj ruch"
 	}
 
 	"Construct improvement":{
@@ -194,6 +205,7 @@
 		Simplified_Chinese:"建造建筑"
         	Portuguese:"Construir melhoria"
 		Japanese:"構造改善"
+		Polish:"Zbuduj usprawnienia"
 	}
 
 	"Automate":{
@@ -207,6 +219,7 @@
 		Simplified_Chinese:"自动工作"
 		Portuguese:"Automatizar"
 		Japanese:"自動化する"
+		Polish:"Zautomatyzuj"
 	}
 	
 	"Stop automation":{
@@ -220,6 +233,7 @@
 		Romanian:"Opriți automatizarea"
 		Russian:"Стоп автоматизации"
 		Japanese:"自動化を停止"
+		Polish:"Skończ automatyzacje"
 	}
 
 	"Fortify":{
@@ -233,6 +247,7 @@
 		Simplified_Chinese:"驻守"
 		Portuguese:"Fortificar"
 		Japanese:"要塞化"
+		Polish:"Fortyfikuj"
 	}
 	
 	"Fortification":{ // as in "+40% Fortification"
@@ -246,6 +261,7 @@
 		Simplified_Chinese:"设防"
 		Portuguese:"Fortficação"
 		Japanese:"要塞"
+		Polish:"Uforywikowanie"
 	}
 	
 	"Sleep":{
@@ -259,6 +275,7 @@
 		Russian:"Спать"
 		Dutch:"Slaap"
 		Spanish:"Dormir"
+		Polish:"Śpij"
 	}
 
 	"Set up":{ // For siege units
@@ -272,6 +289,7 @@
 		Simplified_Chinese:"架设"
         	Portuguese:"Montar"
 		Japanese:"セットアップ"
+		Polish:"Przygotuj"
 	}
 	
 	"Upgrade to [unitType] ([goldCost] gold)":{ // EG Upgrade to Cannon (140 gold)
@@ -284,6 +302,7 @@
 		Portuguese:"Melhoria a [unitType] custará ([goldCost] ouro)"
 		German:"Verbessere [unitType] ([goldCost] Gold)"
 		Japanese:"[unitType]（[goldCost] gold）にアップグレードする"
+		Polish:"Ulepsz do [unitType] ([goldCost] złoto "
 	}
 	
 	"Found city":{
